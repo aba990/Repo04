@@ -16,4 +16,4 @@ function main(){
 }
 
 console.log(main());	
-module.experts = main;
+module.exports = main;

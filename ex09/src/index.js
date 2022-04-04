@@ -16,4 +16,4 @@ function main(numOne, numTwo){
 	}
 	
 console.log(main());	
-module.experts = main;
+module.exports = main;

@@ -10,4 +10,4 @@ function main(numOne, numTwo){
 console.log(main(5.0, 2.0));	
 console.log(main(16.5, 5.5));
 console.log(main(102.00, 25.5));
-module.experts = main;
+module.exports = main;
